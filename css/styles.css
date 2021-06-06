@@ -1,0 +1,27 @@
+body {
+    background-color: #506a9e;
+   }
+
+   hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #011627;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+   }
+
+   h1 {
+    color: #fc6f74;
+    font-family: cursive;
+    }
+
+   h2 {
+    color: #fc6f74;
+    font-family: cursive;    
+}
+
+   h3 {
+    color: #fc6f74;}
+
+   
